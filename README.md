@@ -1,6 +1,6 @@
 # PHP-TOOLS
 
-Ferramentas utilitárias para utilizar em projetos PHP.
+Ferramentas utilitárias para utilização no desenvolvimento de projetos PHP.
 
 ## Instalação
 
